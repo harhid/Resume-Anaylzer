@@ -230,7 +230,7 @@ devDependencies:
     specifier: ^8.0.1
     version: 8.38.0(eslint@9.31.0)(typescript@5.8.3)
   vite:
-    specifier: ^5.4.1
+    specifier: ^5.4.19
     version: 5.4.19(@types/node@22.16.5)
 
 packages:
